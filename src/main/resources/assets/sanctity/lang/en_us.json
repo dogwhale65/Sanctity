@@ -1,0 +1,21 @@
+{
+  "item.sanctity.true_divinity": "§6True Divinity",
+  "item.sanctity.lesser_divinity": "§eLesser Divinity",
+  "item.sanctity.divine_totem":"§eDivine Totem",
+  "item.sanctity.molten_astralith": "Molten Astralith",
+  "item.sanctity.astralith_upgrade_smithing_template": "Astralith Upgrade Smithing Template",
+  "item.sanctity.astralith_ingot": "Astralith Ingot",
+  "item.sanctity.astralith_sword": "Astralith Sword",
+  "item.sanctity.astralith_axe": "Astralith Axe",
+  "item.sanctity.astralith_pickaxe": "Astralith Pickaxe",
+  "item.sanctity.astralith_shovel": "Astralith Shovel",
+  "item.sanctity.astralith_hoe": "Astralith Hoe",
+  "item.sanctity.void_trident": "§bVoidfork",
+  "item.sanctity.astralith_helmet": "Astralith Helmet",
+  "item.sanctity.astralith_chestplate": "Astralith Chestplate",
+  "item.sanctity.astralith_leggings": "Astralith Leggings",
+  "item.sanctity.astralith_boots": "Astralith Boots",
+  "itemgroup.divinity": "Divinity",
+  "itemgroup.astralithg": "Astralith",
+  "block.sanctity.ancient_astralith": "blah"
+}
