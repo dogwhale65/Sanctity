@@ -17,5 +17,6 @@
   "item.sanctity.astralith_boots": "Astralith Boots",
   "itemgroup.divinity": "Divinity",
   "itemgroup.astralithg": "Astralith",
-  "block.sanctity.ancient_astralith": "blah"
+  "block.sanctity.ancient_astralith": "Ancient Astralith",
+  "block.sanctity.astralith_block": "Astralith Block"
 }

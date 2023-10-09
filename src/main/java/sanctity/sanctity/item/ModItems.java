@@ -16,7 +16,6 @@ public class ModItems {
     public static final Item TRUE_DIVINITY = registerItem("true_divinity", new Item(new FabricItemSettings()));
     public static final Item LESSER_DIVINITY = registerItem("lesser_divinity", new Item(new FabricItemSettings()));
     public static final Item DIVINE_TOTEM = registerItem("divine_totem", new Item(new FabricItemSettings()));
-    public static final Item ANCIENT_ASTRALITH = registerItem("ancient_astralith", new Item(new FabricItemSettings()));
     public static final Item MOLTEN_ASTRALITH = registerItem("molten_astralith", new Item(new FabricItemSettings()));
     public static final Item ASTRALITH_UPGRADE_SMITHING_TEMPLATE = registerItem("astralith_upgrade_smithing_template", new Item(new FabricItemSettings()));
     public static final Item ASTRALITH_INGOT = registerItem("astralith_ingot", new Item(new FabricItemSettings()));

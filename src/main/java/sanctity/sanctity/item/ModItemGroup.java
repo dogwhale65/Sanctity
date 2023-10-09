@@ -9,6 +9,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import sanctity.sanctity.Sanctity;
+import sanctity.sanctity.block.ModBlocks;
 
 import static sanctity.sanctity.item.ModItems.*;
 
@@ -19,7 +20,8 @@ public class ModItemGroup {
         entries.add(DIVINE_TOTEM);
     }).build());
     public static final ItemGroup ASTRALITH_GROUP = Registry.register(Registries.ITEM_GROUP, new Identifier(Sanctity.MOD_ID, "astralithg"), FabricItemGroup.builder().displayName(Text.translatable("itemgroup.astralithg")).icon(() -> new ItemStack(ASTRALITH_INGOT)).entries((displayContext, entries) -> {
-        entries.add(ANCIENT_ASTRALITH);
+        entries.add(ModBlocks.ASTRALITH_BLOCK);
+        entries.add(ModBlocks.ANCIENT_ASTRALITH);
         entries.add(MOLTEN_ASTRALITH);
         entries.add(ASTRALITH_UPGRADE_SMITHING_TEMPLATE);
         entries.add(ASTRALITH_INGOT);
